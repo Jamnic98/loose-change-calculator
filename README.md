@@ -12,7 +12,7 @@
 
 
 ## Screenshots
-### The app:
+### The app (on start-up):
 ![LCC](https://user-images.githubusercontent.com/44094740/98406966-c2b00280-2066-11eb-8773-5f855aa8fdbf.png)
 
 ### After calculating:
@@ -20,7 +20,5 @@
 
 
 ## Technologies
-* React 17.0.1
-* JavaScript (ES6)
-* HTML 5
-* CSS 3
+* Python 3.8
+* Tkinter 8.6
