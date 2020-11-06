@@ -1,4 +1,26 @@
 # Loose Change Calculator
-> A program to help with finding out how much change you have in GBP.
+> A program to calculate the total change the user has in GBP.
 
-![LCC](https://user-images.githubusercontent.com/44094740/98406466-e9ba0480-2065-11eb-887b-b89d2b1de712.png)
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+
+
+## General info
+
+
+
+## Screenshots
+### The app:
+![LCC](https://user-images.githubusercontent.com/44094740/98406966-c2b00280-2066-11eb-8773-5f855aa8fdbf.png)
+
+### After calculating:
+![LCC filled in](https://user-images.githubusercontent.com/44094740/98407627-e4f65000-2067-11eb-89a2-cabf69c21466.png)
+
+
+## Technologies
+* React 17.0.1
+* JavaScript (ES6)
+* HTML 5
+* CSS 3
