@@ -1,5 +1,5 @@
 # Loose Change Calculator
-> A program to calculate the total change the user has in GBP.
+> A simple program to calculate the total change the user has in GBP.
 
 
 <!-- TABLE OF CONTENTS -->
