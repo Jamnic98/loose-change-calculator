@@ -20,7 +20,7 @@
 
 <!-- How to install the program -->
 ## Installation
-To install the app, double click the zip file and extract the executable file before running.
+To install the app, double click the zip file and extract the executable before running.
 
 [Loose Change Calculator.zip](https://github.com/Jamnic98/scrabble-scorekeeper/files/5503298/Loose.Change.Calculator.zip)
 
