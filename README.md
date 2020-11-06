@@ -6,9 +6,9 @@
 ## Table of Contents
 * [About the Project](#about-the-project)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Technologies](#technologies)
 
 
 <!-- ABOUT THE PROJECT -->
