@@ -4,16 +4,10 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About the Project](#about-the-project)
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Technologies](#technologies)
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 
 <!-- Screenshots -->
 ## Screenshots
@@ -26,11 +20,14 @@
 
 <!-- How to install the program -->
 ## Installation
+To install the app, double click the link below and extract the executable file before running.
 [Loose Change Calculator.zip](https://github.com/Jamnic98/scrabble-scorekeeper/files/5503298/Loose.Change.Calculator.zip)
 
 
 <!-- Usage examples -->
 ## Usage
+To use the app, type in the number of each denomination of coin and then press the button labeled 'CALCULATE' to get the total.
+If there are zero of any coin, the amount does not have to be input for the program to work. Also, the tab key can be used to switch between inputs.
 
 
 <!-- Technologies used in development -->
