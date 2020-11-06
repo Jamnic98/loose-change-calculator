@@ -24,12 +24,6 @@
 ![LCC filled in](https://user-images.githubusercontent.com/44094740/98407627-e4f65000-2067-11eb-89a2-cabf69c21466.png)
 
 
-<!-- Technologies used in development -->
-## Technologies
-* Python 3.8
-* Tkinter 8.6
-
-
 <!-- How to install the program -->
 ## Installation
 
@@ -37,3 +31,8 @@
 <!-- Usage examples -->
 ## Usage
 
+
+<!-- Technologies used in development -->
+## Technologies
+* Python 3.8
+* Tkinter 8.6
