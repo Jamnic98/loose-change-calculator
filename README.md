@@ -9,6 +9,7 @@
 * [Usage](#usage)
 * [Technologies](#technologies)
 
+
 <!-- Screenshots -->
 ## Screenshots
 ### The app (on start-up):
