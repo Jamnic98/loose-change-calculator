@@ -7,16 +7,14 @@
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Technologies](#technologies)
+* [Built with](#built-with)
 
 
 <!-- Screenshots -->
 ## Screenshots
-### The app (on start-up):
-![LCC](https://user-images.githubusercontent.com/44094740/98406966-c2b00280-2066-11eb-8773-5f855aa8fdbf.png) 
-
-### After calculating:
-![LCC filled in](https://user-images.githubusercontent.com/44094740/98407627-e4f65000-2067-11eb-89a2-cabf69c21466.png)
+| The app (on start-up) | After calculating |
+| --- | --- |
+| ![LCC](https://user-images.githubusercontent.com/44094740/98406966-c2b00280-2066-11eb-8773-5f855aa8fdbf.png) | ![LCC filled in](https://user-images.githubusercontent.com/44094740/98407627-e4f65000-2067-11eb-89a2-cabf69c21466.png) |
 
 
 <!-- How to install the program -->
@@ -33,6 +31,6 @@ If there are zero of any coin, the amount does not have to be input for the prog
 
 
 <!-- Technologies used in development -->
-## Technologies
+## Built with
 * Python 3.8
 * Tkinter 8.6
