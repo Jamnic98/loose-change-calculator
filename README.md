@@ -12,7 +12,7 @@
 
 
 ## General info
-This program was written to make summing large amounts of change easier.
+This program was written to make summing large amounts of change faster and easier.
 
 
 <!-- Screenshots -->
