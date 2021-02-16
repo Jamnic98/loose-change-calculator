@@ -6,7 +6,7 @@
 ## Table of Contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Installation](#installation)
+* [Installation](#installation-on-windows)
 * [Usage](#usage)
 * [Built with](#built-with)
 
@@ -23,10 +23,16 @@ This program was written to make summing large amounts of change faster and easi
 
 
 <!-- How to install the program -->
-## Installation
-To install the app, double click the zip file, save it and then extract the executable before running.
+## Installation (on Windows)
+From the command line, run the following set of instructions:
+1. `git clone https://github.com/Jamnic98/loose-change-calculator.git`
+2. `cd ./loose-change-calculator`
+3. `python -m venv ./`
+4. `cd Scripts && activate`
+5. `cd ../ && python loose_change_calc.py`
 
-[Loose Change Calculator.zip](https://github.com/Jamnic98/scrabble-scorekeeper/files/5503298/Loose.Change.Calculator.zip)
+Remember to deactivate the virtual environment when finished by running the command:
+`cd Scripts && deactivate`
 
 
 <!-- Usage examples -->
