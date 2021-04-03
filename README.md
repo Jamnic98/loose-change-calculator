@@ -7,7 +7,7 @@ This program was written to make summing large amounts of change faster and easi
 
 <!-- Screenshots -->
 ## Screenshots
-| The app (on start-up) | After calculating |
+| On start-up | After calculating |
 | --- | --- |
 | ![LCC](https://user-images.githubusercontent.com/44094740/98406966-c2b00280-2066-11eb-8773-5f855aa8fdbf.png) | ![LCC filled in](https://user-images.githubusercontent.com/44094740/98407627-e4f65000-2067-11eb-89a2-cabf69c21466.png) |
 
