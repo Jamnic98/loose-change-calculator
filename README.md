@@ -1,16 +1,6 @@
 # Loose Change Calculator
 > A program that calculates the total change the user has in GBP.
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Installation](#installation-on-windows)
-* [Usage](#usage)
-* [Built with](#built-with)
-
-
 ## General info
 This program was written to make summing large amounts of change faster and easier.
 
