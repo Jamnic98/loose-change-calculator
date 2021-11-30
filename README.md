@@ -2,7 +2,7 @@
 > A program that calculates the total change the user has in GBP.
 
 ## General info
-This program was written to make summing large amounts of change faster and easier.
+An application to make summing large amounts of change faster and easier.
 
 
 <!-- Screenshots -->
