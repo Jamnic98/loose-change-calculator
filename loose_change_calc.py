@@ -2,10 +2,6 @@
 file_path = "/mnt/data/loose_change.py"
 
 import tkinter as tk
-from tkinter import PhotoImage
-from PIL import Image, ImageTk
-from base64 import b64decode
-from os import remove
 
 # CONSTANTS
 ENTRY_BOX_WIDTH = 3
